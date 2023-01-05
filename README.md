@@ -1,3 +1,7 @@
+Olá! Meu nome é Igor e sou desenvolvedor de aplicativos para Android autodidata.
+
+O Android sempre foi uma paixão para mim e tenho dedicado a maior parte do meu tempo à aprender cada vez mais sobre a área .
+
 # 📧 Contato:
 
 <a href="mailto:mattos157157@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
