@@ -12,6 +12,3 @@ O Android sempre foi uma paixão para mim e tenho dedicado a maior parte do meu 
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  
----
-[![](https://visitcount.itsvg.in/api?id=Igor-M-Amaral&icon=0&color=0)](https://visitcount.itsvg.in)
